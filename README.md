@@ -19,12 +19,12 @@ Here’s how the schedule looks:
 | **Jam**       | **Senin**          | **Selasa** | **Rabu**     | **Kamis** | **Jum'at** | **Sabtu** |
 |---------------|--------------------|------------|--------------|-----------|------------|-----------|
 | 07:00-08:00   | Praktikum Web      |            |              |           |            |           |
-| 08:00-09:00   | Praktikum Java     |            | Java Lanjut  |           |            |           |
-| 09:00-10:00   |                   |            | Praktikum Jaringan |      |            |           |
-| 10:00-11:20   |                   |            |              |           |            |           |
+| 08:00-09:00   | Praktikum Web     | Praktikum Java | Java Lanjut |         |            |           |
+| 09:00-10:00   |                   | Praktikum Java | Java Lanjut | Praktikum Jaringan   |           |
+| 10:00-11:20   |                    |            | Java Lanjut  | Praktikum Jaringan     |           |
 | 11:20-13:00   | **ISHOMA**         |            |              |           |            |           |
 | 13:00-14:00   | Web                |            |              | Jaringan  |            |           |
-| 14:00-15:00   |                   |            |              |           |            |           |
+| 14:00-15:00   | Web                |            |              | Jaringan  |            |           |
 
 ## How to Use
 
